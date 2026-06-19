@@ -1,13 +1,5 @@
 /* ============================================
    JARVIS — Chat UI
-   Design tokens
-   Base:    #0f1115 (near-black charcoal)
-   Surface: #161922 (panel)
-   Surface2:#1e2230 (raised panel / hover)
-   Accent:  #22d3ee (cyan signal)
-   Text:    #e6e9ef (primary), #8b93a7 (muted)
-   Display face: 'JetBrains Mono' (control-panel labels)
-   Body face:    'Inter' (message text)
    ============================================ */
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600;700&display=swap');
